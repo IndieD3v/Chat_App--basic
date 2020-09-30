@@ -1,6 +1,7 @@
 # Chat App
 
-### In This Project 
+## Instructions
+
 ### First Run the Server Script
 ### and then Reciver script
 
