@@ -1,7 +1,7 @@
 # Chat App
 
 ## Instructions
- First Run the Server Script and then Reciver script
+ First Run the **Server** Script and then **Reciver** script
  
  Enter ***quit*** to quit the program.
  
